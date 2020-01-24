@@ -1,0 +1,14 @@
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+c:\users\ssp.sptn\documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
